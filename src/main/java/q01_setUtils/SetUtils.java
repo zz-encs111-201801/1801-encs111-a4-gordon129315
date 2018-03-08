@@ -2,13 +2,6 @@ package q01_setUtils;
 
 import java.util.*;
 
-/**
- * Author:  Haotao Lai (Eric)
- * Date:    2018-03-06
- * E-mail:  haotao.lai@gmail.com
- * Website: http://laihaotao.me
- */
-
 
 public class SetUtils {
 

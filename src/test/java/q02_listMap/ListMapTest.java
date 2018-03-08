@@ -7,13 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
-/**
- * Author:  Haotao Lai (Eric)
- * Date:    2018-03-06
- * E-mail:  haotao.lai@gmail.com
- * Website: http://laihaotao.me
- */
-
 @DisplayName("Q2 ListMap Test")
 public class ListMapTest {
 

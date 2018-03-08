@@ -9,12 +9,6 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Author:  Haotao Lai (Eric)
- * Date:    2018-03-06
- * E-mail:  haotao.lai@gmail.com
- * Website: http://laihaotao.me
- */
 
 @DisplayName("Q1 SetUtils Test")
 public class SetUtilsTest {

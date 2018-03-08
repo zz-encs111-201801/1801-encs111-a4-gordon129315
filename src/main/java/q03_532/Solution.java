@@ -1,11 +1,5 @@
 package q03_532;
 
-/**
- * Author:  Haotao Lai (Eric)
- * Date:    2018-03-06
- * E-mail:  haotao.lai@gmail.com
- * Website: http://laihaotao.me
- */
 
 // K-diff Pairs in an Array
 // https://leetcode.com/contest/leetcode-weekly-contest-22/problems/k-diff-pairs-in-an-array/
