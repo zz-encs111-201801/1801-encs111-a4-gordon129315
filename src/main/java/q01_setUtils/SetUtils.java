@@ -19,14 +19,16 @@ public class SetUtils {
                 set.add(s);
             }
         }
-
         return set;
     }
 
     public static Set<String> subtract(Set<String> s1, Set<String> s2) {
         Set<String> set = new HashSet<>();
-        set.addAll(s1);
-        set.removeAll(intersect(s1, s2));
+        for (String s : s1) {
+            if (!s2.contains(s)) {
+                set.add(s);
+            }
+        }
         return set;
     }
 
